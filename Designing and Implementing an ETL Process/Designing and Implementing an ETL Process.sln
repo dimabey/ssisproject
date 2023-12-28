@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Designing and Implementing an ETL Process", "Designing and Implementing an ETL Process\Designing and Implementing an ETL Process.dtproj", "{784E2A08-B357-44D9-9DC0-3C997B952BD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{784E2A08-B357-44D9-9DC0-3C997B952BD7}.Development|Default.ActiveCfg = Development
+		{784E2A08-B357-44D9-9DC0-3C997B952BD7}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1312F58-C393-451E-B60A-39A6D911178A}
+	EndGlobalSection
+EndGlobal
